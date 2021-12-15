@@ -1,0 +1,14 @@
+@import "~bulma/css/bulma.css";
+
+.index-card {
+    max-width: 275px;
+}
+
+ul.styled-list {
+    list-style: outside;
+    margin-left: 1em;
+}
+
+.text-strikeout {
+    text-decoration: line-through;
+}
